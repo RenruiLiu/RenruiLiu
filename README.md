@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi there 👋 不管是谁这么无聊来看我
+
+- 🇦🇺 本科和研究生在澳洲读的
+- 😔 唉研究生没读完就退学了
+- 💻 现在在珠海WPS
+-   做iOS开发
+- ✉️ 联系<liurenrui016@qq.com>吧
+- ✨ 做梦都想要可爱的女朋友，最好还能发财。如果不能，也让我好好摸鱼玩游戏吧
 
 <!--
-**RenruiLiu/RenruiLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RenruiLiu/RenruiLiu** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
